@@ -1,0 +1,29 @@
+generated: '2026-10-22'
+method: searched
+source: https://goldenanalytics.com/pricing
+name: Golden Analytics pricing
+audience: developer-api
+pricing_basis: per-seat
+published: true
+plan_count: 2
+plans:
+  - name: Team
+    price_text: "$24 /user/month billed annually"
+    price: 24
+    currency: USD
+    billing_period: monthly
+    included_quota: null
+    overage: null
+    limits: []
+    description: "Analytics teams who want the whole product without a procurement cycle. Includes AI-Native Analytics, natural language queries, auto insights, visualizations, anomaly detection, data prep, shared workspaces, Slack integration, email support."
+    docs: https://goldenanalytics.com/pricing
+  - name: Enterprise
+    price_text: "$36 /user/month billed annually"
+    price: 36
+    currency: USD
+    billing_period: monthly
+    included_quota: null
+    overage: null
+    limits: []
+    description: "Advanced security and compliance, OAuth integration, granular security controls, MCP servers, global governed spaces, custom onboarding."
+    docs: https://goldenanalytics.com/pricing

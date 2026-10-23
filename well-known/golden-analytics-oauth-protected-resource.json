@@ -1,0 +1,37 @@
+{
+  "resource": "https://goldenanalytics.com",
+  "resource_name": "Golden Analytics website API",
+  "resource_documentation": "https://goldenanalytics.com/openapi.json",
+  "resource_policy_uri": "https://goldenanalytics.com/privacy-policy",
+  "resource_tos_uri": "https://goldenanalytics.com/terms-of-use",
+  "scopes_supported": [
+    "content:read",
+    "search:read",
+    "forms:read",
+    "contact:write",
+    "waitlist:write",
+    "cache:revalidate",
+    "draft:preview"
+  ],
+  "scope_descriptions": {
+    "content:read": "Read published site content (pages, posts, markdown views).",
+    "search:read": "Query the site search index.",
+    "forms:read": "Read a public form definition so it can be rendered.",
+    "contact:write": "Submit the public contact form.",
+    "waitlist:write": "Submit a sign-up / wait-list entry.",
+    "cache:revalidate": "Invalidate the rendered-page cache. Sanity webhook only.",
+    "draft:preview": "Enter draft-preview mode. Sanity Studio editors only."
+  },
+  "bearer_methods_supported": [],
+  "x-public_scopes": [
+    "content:read",
+    "search:read",
+    "forms:read",
+    "contact:write",
+    "waitlist:write"
+  ],
+  "x-credentialed_scopes": {
+    "cache:revalidate": "HMAC signature header `sanity-webhook-signature`.",
+    "draft:preview": "Single-use `sanity-preview-secret` query parameter."
+  }
+}

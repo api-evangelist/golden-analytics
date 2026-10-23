@@ -1,0 +1,165 @@
+generated: '2026-10-22'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 13
+  own: 6
+  other_domain: 7
+  platform: 0
+  roles:
+  - api
+  - docs
+  - other
+  - status
+  - website
+hosts:
+- host: api.goldenanalytics.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: goldenanalytics.com
+  role: api
+  relation: own
+- host: app.goldenanalytics.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: goldenanalytics.com
+  role: other
+  relation: own
+- host: datanasolutions.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: datanasolutions.com
+  role: other
+  relation: other-domain
+- host: docs.goldenanalytics.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - Documentation
+  serves:
+  - docs
+  registrable_domain: goldenanalytics.com
+  role: docs
+  relation: own
+- host: g-stat.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: g-stat.com
+  role: other
+  relation: other-domain
+- host: goldenanalytics.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - spec-found
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - Security
+  - PrivacyPolicy
+  - Pricing
+  - Newsroom
+  - DeveloperPortal
+  - Blog
+  - APIReference
+  - Website
+  serves:
+  - api
+  - docs
+  - spec
+  - hosting
+  vendor: vercel
+  registrable_domain: goldenanalytics.com
+  role: website
+  relation: own
+- host: onware.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: onware.com
+  role: other
+  relation: other-domain
+- host: status.goldenanalytics.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - StatusPage
+  serves: []
+  registrable_domain: goldenanalytics.com
+  role: status
+  relation: own
+- host: trust.goldenanalytics.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: goldenanalytics.com
+  role: other
+  relation: own
+- host: www.allegroanalytics.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: allegroanalytics.com
+  role: other
+  relation: other-domain
+- host: www.cittabase.com
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: cittabase.com
+  role: other
+  relation: other-domain
+- host: www.continuum.je
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: continuum.je
+  role: other
+  relation: other-domain
+- host: www.notion.so
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: notion.so
+  role: other
+  relation: other-domain

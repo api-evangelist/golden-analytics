@@ -1,25 +1,80 @@
 aid: golden-analytics
 name: Golden Analytics
-description: 'Golden Analytics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by nea) and added to the network as a stub for full-pipeline profiling.'
+image: https://cdn.sanity.io/images/d8jzjb8o/production/7346456bb8f1e912f52e64b2f6794e4bacc0ffb0-1120x263.svg
+description: Golden Analytics provides an AI‑native business intelligence platform that enables data teams to connect, discover, prepare, analyze,
+  and share insights within a single workflow. The platform serves analysts, business users, and data leaders who need automated discovery, AI‑augmented
+  analysis, and governed metrics across cloud data warehouses.
 url: https://raw.githubusercontent.com/api-evangelist/golden-analytics/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
 specificationVersion: '0.20'
 created: '2026-10-22'
 modified: '2026-10-22'
 tags:
-- Company
-apis: []
+- Business Intelligence
+- AI-native
+- Data Analytics
+- Data Teams
+- Enterprise Analytics
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- nea
 common:
+- type: Plans
+  url: plans/golden-analytics-plans-pricing.yml
+- type: Conformance
+  url: conformance/golden-analytics-conformance.yml
+- type: LLMsTxt
+  url: llms/golden-analytics-llms.txt
+- type: SecurityTxt
+  url: well-known/golden-analytics-docs-security.txt
+- type: WellKnown
+  url: well-known/golden-analytics-well-known.yml
+- type: Hosts
+  url: hosts/golden-analytics-hosts.yml
+- type: Vendors
+  url: vendors/golden-analytics-vendors.yml
+- type: TermsOfService
+  url: https://goldenanalytics.com/terms-of-use
+- type: StatusPage
+  url: https://status.goldenanalytics.com/
+- type: Security
+  url: https://goldenanalytics.com/security
+- type: PrivacyPolicy
+  url: https://goldenanalytics.com/privacy-policy
+- type: Pricing
+  url: https://goldenanalytics.com/pricing
+- type: Newsroom
+  url: https://goldenanalytics.com/newsroom
+- type: DeveloperPortal
+  url: https://goldenanalytics.com/developers
+- type: Blog
+  url: https://goldenanalytics.com/blog
+- type: Documentation
+  url: https://docs.goldenanalytics.com/
+- type: APIReference
+  url: https://goldenanalytics.com/product/whats-new
+- type: VulnerabilityDisclosure
+  url: security/golden-analytics-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/golden-analytics-domain-security.yml
 - type: Website
   url: https://goldenanalytics.com
+apis:
+- name: Golden Analytics API
+  description: Public HTTP surface of goldenanalytics.com as described in the OpenAPI spec.
+  humanURL: https://goldenanalytics.com
+  baseURL: https://goldenanalytics.com
+  aid: golden-analytics:golden-analytics-api
+x-backed-by:
+- nea
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 16
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

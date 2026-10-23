@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/golden-analytics/integrations
+- https://n8n.io/integrations/golden-analytics/
+- https://composio.dev/toolkits/golden-analytics
+- https://monid.ai/tools/golden-analytics
+checked:
+- https://composio.dev/toolkits/golden-analytics
+- https://monid.ai/tools/golden-analytics
+- https://n8n.io/integrations/golden-analytics/
+- https://zapier.com/apps/golden-analytics/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

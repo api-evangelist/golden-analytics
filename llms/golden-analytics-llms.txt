@@ -1,0 +1,176 @@
+# Golden Analytics
+
+> Most BI tools force a choice between analytical depth, accessibility for non-technical users, or design quality. Golden Analytics is built for data teams who are done making that tradeoff. It combines a shelf-based visualization builder, a freeform dashboard canvas, and AI woven into every step of the workflow — from querying to publishing polished data stories — without requiring SQL, a designer, or a separate AI add-on.
+
+Last updated: 2026-10-22
+
+---
+
+## Product Overview
+
+- [Why Golden](https://goldenanalytics.com/why-golden) — Core differentiators and philosophy
+- [AI-Native BI: The Slider of Autonomy | Golden Analytics](https://goldenanalytics.com/why-golden/ai-native) — Golden's slider of autonomy lets you choose how much AI does (full automation or hands-on control) without re-prompting from scratch.
+- [Analyst-Grade Depth, No Extra Tools | Golden Analytics](https://goldenanalytics.com/why-golden/depth) — Golden combines data prep, advanced calculations, and design-quality storytelling in one platform, so analyst-grade depth never means switching tools.
+- [Self-Service BI for Your Whole Team | Golden Analytics](https://goldenanalytics.com/why-golden/everyone) — One governed platform where analysts, business users, and data leaders work from the same live data: no more spreadsheet disputes.
+- [Instant AI Insights From Any Dataset | Golden Analytics](https://goldenanalytics.com/why-golden/speed) — See insights the moment you connect your data: no queries, no setup. Golden's AI surfaces trends, patterns, and answers to your questions in seconds.
+- [Trust: How to Check Every AI Answer](https://goldenanalytics.com/why-golden/trusted) — How Golden makes AI analytics checkable: inspect every query, live queries under your permissions, masking enforced on exports, semantic models supported.
+- [Product](https://goldenanalytics.com/product) — AI-native visualization, dashboard generation, data preparation, monitoring
+- [What's New](https://goldenanalytics.com/product/whats-new) — Latest releases and product updates
+
+## Compare
+
+- [Compare BI platforms](https://goldenanalytics.com/compare) — evaluation framework and vendor shortlist
+- [Golden vs Ai Chatbots](https://goldenanalytics.com/compare/ai-chatbots) — head-to-head comparison
+- [Golden and Databricks Genie: when to use each](https://goldenanalytics.com/compare/databricks-genie) — how Golden and Genie work together on the same Unity Catalog data
+- [Golden vs Domo](https://goldenanalytics.com/compare/domo) — head-to-head comparison
+- [Golden vs Looker](https://goldenanalytics.com/compare/looker) — head-to-head comparison
+- [Golden vs Power Bi](https://goldenanalytics.com/compare/power-bi) — head-to-head comparison
+- [Golden vs Tableau](https://goldenanalytics.com/compare/tableau) — head-to-head comparison
+- [Tableau alternatives](https://goldenanalytics.com/compare/tableau-alternatives) — evaluation guide for teams comparing BI platforms
+
+## Solutions
+
+AI analytics by team, automated analysis types, and step-by-step use cases:
+
+- [Solutions | Golden Analytics](https://goldenanalytics.com/solutions) — How every team uses Golden: by team, by analysis, and real use cases answered start to finish, with the evidence behind every claim.
+- [Automated Analysis | Golden Analytics](https://goldenanalytics.com/solutions/analysis) — Discovery, location, time series, survey, market basket, and key driver analysis, run for you with the evidence behind every claim.
+- [Automated Insights & Data Discovery](https://goldenanalytics.com/solutions/analysis/automated-discovery) — Automated insights from any dataset: Golden tests every field, drops weak results, and ranks findings with supporting numbers and a one-click dashboard.
+- [Key Driver Analysis for Metric Changes](https://goldenanalytics.com/solutions/analysis/key-driver-analysis) — Key driver analysis that ranks what moved a metric, checks for confounders, and separates mix from rate, with a waterfall showing each contribution.
+- [Location Analytics | Regional Performance | Golden Analytics](https://goldenanalytics.com/solutions/analysis/location-analytics) — Map any measure by region, quantify concentration, find the fastest- and slowest-growing areas, and compare each location with its neighbors.
+- [Market Basket Analysis Tool With Lift](https://goldenanalytics.com/solutions/analysis/market-basket-analysis) — Market basket analysis tool: find items bought together more often than chance, rank pairs by lift, and use confidence intervals to filter out noise.
+- [Survey Analytics | Responses and Text | Golden Analytics](https://goldenanalytics.com/solutions/analysis/survey-analytics) — Reshape Qualtrics and SurveyMonkey exports, build accessible Likert charts, segment respondents, and rank gaps between importance and satisfaction.
+- [Time Series Analytics | Forecasting | Golden Analytics](https://goldenanalytics.com/solutions/analysis/time-series-analytics) — Find changes in a trend, identify the segments behind each swing, and forecast what comes next with intervals backtested on your history.
+- [Golden for Every Team | Golden Analytics](https://goldenanalytics.com/solutions/teams) — How sales, finance, marketing, customer success, operations, and people teams use Golden to answer the questions they ask every week.
+- [Analytics for Customer Success | Golden Analytics](https://goldenanalytics.com/solutions/teams/customer-success) — Cohort retention, NPS by wave, and themes from thousands of survey comments, without reading them all by hand.
+- [Analytics for Finance Teams | Golden Analytics](https://goldenanalytics.com/solutions/teams/finance) — Budget vs actual, MRR and churn, and real forecasts to target. Find which line caused the miss before the board deck is due.
+- [Analytics for Marketing Teams | Golden Analytics](https://goldenanalytics.com/solutions/teams/marketing) — See every channel's funnel from impression to purchase, with CAC and ROAS, so budget follows the customers.
+- [Analytics for Operations Teams | Golden Analytics](https://goldenanalytics.com/solutions/teams/operations) — Golden Analytics for operations teams: map store performance, trace stockouts to late suppliers, spot overstock tying up cash, and act before margins slip.
+- [Analytics for People Teams | Golden Analytics](https://goldenanalytics.com/solutions/teams/people) — Attrition by department, a quarterly headcount bridge, and whether pay or tenure explains who's leaving.
+- [Analytics for Sales & RevOps | Golden Analytics](https://goldenanalytics.com/solutions/teams/sales) — See which region is winning, which product lines make money, and why revenue moved, on one screen anyone can filter.
+- [Use Cases | Golden Analytics](https://goldenanalytics.com/solutions/use-cases) — Real business questions, from a revenue drop to a supply chain stockout, and how Golden answers each one step by step.
+- [Customer Cohort Retention Analysis | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/customer-cohort-retention) — Understand why customers stay, where they drop off, and what changed. Compare retention cohorts, investigate churn, and turn findings into action.
+- [Why Did Revenue Drop? Find the Cause](https://goldenanalytics.com/solutions/use-cases/explain-revenue-drop) — Explain a revenue drop: break it into the states, cities and products behind it, see what offset it, and check outside events that line up with it.
+- [Forecast to Target | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/forecast-to-target) — Forecast the back half of the year, seasonality included, and see each product line's projected total, gap to target, and probability of hitting it.
+- [HR Attrition & Headcount | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/hr-attrition-headcount) — Confirm whether attrition really spiked, see why people left, and build a quarterly headcount bridge for the board pack.
+- [Marketing Funnel & Attribution | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/marketing-funnel-attribution) — See the full funnel per channel from impression to purchase, and price each stage with cost per click, CAC, and ROAS, so budget follows customers.
+- [Multi-Table Data Modeling | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/multi-table-modeling) — Load a multi-sheet workbook, let Golden infer the joins, and analyze growth, margin and shipping SLAs without double-counting.
+- [MRR Waterfall, NRR & Churn Analysis](https://goldenanalytics.com/solutions/use-cases/saas-mrr-churn) — Build an MRR waterfall, net revenue retention, and logo vs revenue churn from one subscription ledger, and check that the ledger reconciles.
+- [Sales Performance Dashboard | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/sales-performance-dashboard) — See which region is winning, which product lines make money, and who carries the number, with year-over-year context anyone can filter.
+- [Store Performance Map | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/store-performance-map) — See where underperforming stores cluster, which format earns the most per square foot, and which stores sit close enough to consolidate.
+- [Supply Chain Inventory Analysis | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/supply-chain-inventory) — Trace every stockout to the late shipment behind it, spot lines at risk before they hit zero, and find the inventory tying up cash.
+- [Survey & NPS Analytics | Golden Analytics](https://goldenanalytics.com/solutions/use-cases/survey-text-analytics) — Turn raw survey and NPS exports into interactive dashboards in two clicks. Golden automatically reshapes responses so analysts can start with insights.
+
+## Getting Started
+
+- [Pricing](https://goldenanalytics.com/pricing) — Plans and pricing model
+- [Security & Compliance](https://goldenanalytics.com/security) — Data handling, certifications, and security practices
+- [FAQ](https://goldenanalytics.com/faq.md) — Common questions about data sources, visualizations, AI features, and collaboration
+
+## Partners
+
+- [Partners](https://goldenanalytics.com/partner) — Directory of Golden's technology partners and services & consulting partners
+
+Technology partners:
+- [Golden × Snowflake](https://goldenanalytics.com/partner/snowflake) — Live queries on Snowflake with no copied data; OAuth means Snowflake roles, grants, row-level policies and masks decide what each user sees; Semantic Views read as certified fields
+- [Golden × Databricks](https://goldenanalytics.com/partner/databricks) — Live queries on Databricks SQL warehouses under each user's identity, so Unity Catalog grants, row filters and column masks apply; metric views read as certified fields
+- [Golden × Alteryx](https://goldenanalytics.com/partner/alteryx) — Workflows stay in Alteryx; Golden connects live to wherever their output lands (files, Google Sheets or a warehouse)
+- [Golden × AWS](https://goldenanalytics.com/partner/aws) — Golden runs on AWS and queries Amazon Redshift live; Redshift grants on the admin-approved connection decide what comes back, with no copied warehouse data
+- [Golden × Google](https://goldenanalytics.com/partner/google) — Gemini for reasoning, BigQuery queried live, Google Sheets as a source and export, and export to Google Slides
+- [Golden × Apache Ossie](https://goldenanalytics.com/partner/apache-ossie) — Bring an Apache Ossie semantic model to Golden; its datasets, fields, metrics and relationships become the definitions charts, dashboards and AI answers use
+
+Services & consulting partners:
+- [Allegro Analytics](https://www.allegroanalytics.com/) — Analytics consultancy helping mid-market business leaders uncover opportunities and act on them
+- [Cittabase](https://www.cittabase.com/) — Data management and analytics consultancy (USA, Canada, Singapore, India) focused on warehouse modernization, governance and Snowflake migrations
+- [Continuum Advisory Partners](https://www.continuum.je/) — Jersey-based data and AI consultancy for financial services, working with Alteryx and DataRobot
+- [Datana](https://datanasolutions.com/) — Tool-agnostic consultancy for data strategy, engineering, analytics and BI, and AI and automation
+- [G-Stat](https://g-stat.com/) — Israeli developer and integrator of advanced analytics, BI and machine learning solutions
+- [Onware](https://onware.com/) — BI and analytics consultancy with offices in Houston, Texas and Edmonton, Alberta, focused on construction analytics
+
+## Resources
+
+- [Blog](https://goldenanalytics.com/blog) — Articles and insights
+
+## Writing
+
+Point-of-view posts on AI-native analytics, pricing, and product craft:
+
+- [Chat with your data in Golden](https://goldenanalytics.com/blog/chat-with-your-data-in-golden) — Chat lives on every screen in Golden. Here's a tour of what it actually does, with real prompts and real screenshots.
+- [Every BI Vendor Has AI. That Doesn't Make Them AI-Native.](https://goldenanalytics.com/blog/every-bi-vendor-has-ai-that-doesnt-make-them-ai-native) — Adding AI to traditional BI isn't the same as building analytics for the AI era. Explore the principles that define a genuinely AI-native platform.
+- [Golden Now Connects to Azure SQL Database and Microsoft Fabric](https://goldenanalytics.com/blog/azure-sql-and-microsoft-fabric-connectors) — Your data lives in a lot of places. Golden works where it lives, now including Azure SQL Database and Microsoft Fabric.
+- [Semantics Are Essential. A Semantic Layer Is Optional.](https://goldenanalytics.com/blog/semantics-are-essential-a-semantic-layer-is-optional) — AI needs semantics. That doesn't mean you have to model your entire business before AI can be useful. Golden uses the semantics you already have, wherever they live.
+- [60 ways to look at your data](https://goldenanalytics.com/blog/41-ways-to-look-at-your-data) — Golden's chart builder has 41 chart types and about 60 looks once you add the modifiers, plus a set of dashboard cards to go with them. Here's the whole toolbox, every chart built in Golden.
+- [Tables that work the way you expect](https://goldenanalytics.com/blog/tables-that-work-the-way-you-expect)
+- [Dashboards Aren’t Dead. They’re Dead Ends.](https://goldenanalytics.com/blog/dashboards-arent-dead-theyre-dead-ends) — For most of the history of BI, we’ve divided the world into creators and consumers. Dashboards aren’t the problem — the idea of a “consumer” is. Here’s how we’re reimagining the consumption experience in Golden.
+- [Time Series Analytics Made Easy](https://goldenanalytics.com/blog/time-series-analytics-made-easy) — There are only four questions anyone asks of a time series. What happened. Why it happened. What might happen next. What changed since last time. Here's how Golden answers each one in a click.
+- [From Survey Responses to Insights in Two Clicks](https://goldenanalytics.com/blog/from-survey-responses-to-insights-in-two-clicks) — Golden Analytics turns raw survey and NPS data into interactive dashboards in two clicks—automatically reshaping responses so analysts can start with insights.
+- [Why Golden Analytics Doesn’t Charge for Tokens](https://goldenanalytics.com/blog/why-golden-analytics-doesn-t-charge-for-tokens) — The entire purpose of analytics is curiosity. It’s helping people explore their data, ask better questions, and discover things they didn’t know before. That's why Golden Analytics doesn't charge for tokens.
+- [Every keyboard shortcut in Golden (and the one that finds the rest)](https://goldenanalytics.com/blog/keyboard-shortcuts-in-golden) — Some people live on the keyboard. So we built shortcuts in everywhere, across Discover, Prep, Analyze, and Communicate. Here's the full set, and the one shortcut (Command+K) that finds all the others for you.
+- [New in Golden: June 2026](https://goldenanalytics.com/blog/new-in-golden-june-2026) — 92 updates in one month. A new chart type, improvements in collaboration and chat, and a changes under the hood that gives more flexibility and trust.
+- [The story behind the Golden Analytics logo](https://goldenanalytics.com/blog/the-story-behind-the-golden-analytics-logo) — Our logo isn't arbitrary. It's built from the same mathematical principles that shape sunflower spirals and nautilus shells — and that's exactly the point.
+- [Why We Chose Insight Partners](https://goldenanalytics.com/blog/insight-partners) — Choosing investors isn’t just about raising capital. It’s about finding partners who share your vision, challenge your thinking, and help you build something enduring. Here’s why we chose Insight Partners to join us on the journey.
+- [Make your Databricks data shine with Golden](https://goldenanalytics.com/blog/make-your-databricks-data-shine-with-golden) — Databricks Unity Catalog has certifications, documentation, and metadata your team spent time building. Golden actually uses all of it.
+- [What We Learned Between Design Preview and Public Beta](https://goldenanalytics.com/blog/public-beta) — A few weeks after announcing Golden, nearly a thousand companies requested access. As we move from design preview to public beta, here are the biggest lessons we learned about AI analytics, enterprise adoption, data preparation, modern workflows, and building with customers.
+- [Manifesto](https://goldenanalytics.com/blog/manifesto) — A manifesto for everyone who still believes in what data can do. Golden was built around one belief: data people are some of the most valuable people in any organization, and the tools they use should be worthy of them.
+- [We Love Snowflake Data](https://goldenanalytics.com/blog/we-love-snowflake-data) — Your data is already in Snowflake. It's governed, trusted, and live. We think BI tools should work with that, not around it.
+- [Vibe-Coded Dashboards Are Great for Prototypes. Here's Why They Break at Scale.](https://goldenanalytics.com/blog/vibe-coded-dashboards-vs-golden) — Vibe-coding is great for a quick prototype. It falls apart the moment you need to share data across the organization.
+- [The Slider of Autonomy](https://goldenanalytics.com/blog/the-slider-of-autonomy) — AI in analytics shouldn't be binary. Not AI on or AI off. A continuous dial you control at every step -- that's the Slider of Autonomy.
+- [AI Native vs. AI Bolted On](https://goldenanalytics.com/blog/ai-native-vs-ai-bolted-on) — There's a meaningful gap between adding AI to a product and building a product around AI. Here's what the architectural difference actually is, and why it matters for anyone buying or building BI software right now.
+- [Newsroom](https://goldenanalytics.com/newsroom) — Press releases and announcements
+- [About](https://goldenanalytics.com/about) — Company information
+- [Resources](https://goldenanalytics.com/about/resources) — Guides and analyst research
+- [What is AI-native BI?](https://goldenanalytics.com/about/resources/ai-native-bi) — Plain definition and how it differs from copilots
+- [How to choose an AI-native analytics solution](https://goldenanalytics.com/about/resources/how-to-choose-ai-native-analytics) — Buyer's guide using FERRARO's seven principles
+- [Media Kit](https://goldenanalytics.com/about/newsroom/media-kit) — Logos and brand assets
+- [Developers & agents](https://goldenanalytics.com/developers) — MCP server, OpenAPI spec, and every machine-readable endpoint
+
+## Legal
+
+- [Privacy Policy](https://goldenanalytics.com/privacy-policy)
+- [Terms of Use](https://goldenanalytics.com/terms-of-use)
+- [Subscription Agreement](https://goldenanalytics.com/subscription-agreement)
+- [Data Processing Addendum](https://goldenanalytics.com/data-processing-addendum)
+- [Security Compliance Docs](https://goldenanalytics.com/security) — SOC 2 and security details
+
+---
+
+## At a Glance
+
+**Pricing**
+- **Team Plan**: $24 /user/month (annual billing) or $30 /user/month (monthly billing).
+- **Enterprise Plan**: $36 /user/month (annual billing) or $45 /user/month (monthly billing).
+- No free plan; 14-day free trial available
+- Per-seat pricing (no per-query or per-AI-call charges)
+
+**Access**
+Available at goldenanalytics.com
+
+---
+
+## When to use Golden Analytics
+
+Use goldenanalytics.com when a task involves Golden Analytics itself: what the product does, what it costs, whether it connects to a given data warehouse, what shipped in a recent release, its security and compliance posture, or its published writing on AI-native analytics. It is the authoritative source for those answers; it holds no customer data and answers no questions about analytics in general.
+
+Reach for this site when:
+
+- **Someone asks what Golden Analytics costs, or asks you to compare its price against another BI or analytics product.** Fetch https://goldenanalytics.com/pricing.md, or call the `get_pricing` MCP tool. Both carry per-seat prices for every plan, monthly and annual, plus what each tier includes. Pricing is per seat with AI included. There is no per-query or per-AI-call charge to model.
+- **Someone asks whether Golden Analytics can do a specific thing: a chart type, a data source, a governance control, an AI capability.** Call `search_content` with the capability name, then `get_page` on the best hit. `/product` and `/why-golden/*` cover capabilities; `/security` covers governance and compliance.
+- **Someone asks what changed or shipped recently.** Call `list_releases`, or read https://goldenanalytics.com/product/whats-new. Releases are dated and each item is tagged feature, improvement, or fix.
+- **Someone asks whether Golden Analytics connects to their stack.** Read `/product` or search for the warehouse by name. Supported live connections and file formats are listed there rather than inferred.
+- **You are assembling a citation, quote, or summary of Golden Analytics' position on something.** Read the source page as markdown rather than paraphrasing search snippets: request any page URL with `Accept: text/markdown`, or call `get_page`. Every markdown response carries a `canonical_url` in its front matter. Cite that.
+- **You need to enumerate the site before deciding what to read.** Call `list_pages`, or fetch https://goldenanalytics.com/sitemap.xml. Both are generated from the CMS at request time, so neither goes stale.
+- **Someone wants to talk to a human: a demo, a trial, security review, or press.** Point them at https://goldenanalytics.com/about/contact. Do not submit the contact form on a person's behalf without their explicit go-ahead; it reaches a human inbox.
+
+Do not reach for it for:
+
+- General analytics, SQL, or BI questions unrelated to this product. Nothing here is a tutorial.
+- Customer data, dashboards, or accounts. This origin serves published marketing and documentation content only; there is no data plane here.
+- Account actions: signing up, signing in, changing a plan, or cancelling. None of those are exposed as an API.
+
+## How to call it
+
+- **MCP server:** `https://goldenanalytics.com/mcp`: Streamable HTTP, JSON-RPC 2.0, no credential. Tools: `search_content`, `get_page`, `list_pages`, `get_pricing`, `list_releases`, `list_developer_resources`.
+- **Manifest:** https://goldenanalytics.com/.well-known/mcp.json
+- **Agent Skills index:** https://goldenanalytics.com/.well-known/agent-skills/index.json
+- **Full agent instructions:** https://goldenanalytics.com/agents.md
+- **HTTP API:** https://goldenanalytics.com/openapi.json (OpenAPI 3.1)
+- **Markdown of any page:** send `Accept: text/markdown` to the page URL.
